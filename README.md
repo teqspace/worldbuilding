@@ -1,6 +1,2 @@
----
-layout: landing
----
-
-# 📌 Introduction
+# Introduction
 
